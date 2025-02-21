@@ -1,0 +1,200 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+body{
+     background-color: whitesmoke;
+}
+
+#header{
+    background-color: rgb(2,7,15);
+    display: flex;
+    align-content: space-evenly;
+    padding-top: 20px;
+    padding-left: 10px;
+    padding-bottom: 15px;
+ 
+}
+
+#logo{
+    height: 40px;
+}
+
+#up{
+    color: whitesmoke;
+    font-size: 13px;
+}
+
+#down{
+    color: white;
+    font-size: 15px;
+}
+
+#add{
+    margin-left: 30px;
+}
+
+#all{
+    margin-left: 30px;
+    width: 55px;
+    border-radius: 4px;
+    border: none;
+}
+
+#ser{
+     width: 430px;
+     padding-left: 15px;
+}
+
+#icon{
+    font-size: 30px;
+    background-color:rgb(224,162,63);
+    border: 1px solid rgb(224,162,63);
+    border-radius: 4px;
+}
+
+#lang{
+    margin-left: 30px;
+    background-color: transparent;
+    color: white;
+    font-weight: bold;
+    border: none;
+}
+
+#acc{
+    font-size: 14px;
+    color: white;
+    background-color: transparent;
+    border: none;
+}
+
+#up2{
+    color: whitesmoke;
+    font-size: 13px;
+    margin-left: 5px;
+}
+
+#icon2{
+    font-size: 30px;
+    background-color:transparent;
+    border: none;
+    border-radius: 4px;
+    
+}
+
+#mo{
+    margin-left: 50px;
+    color: white;
+    margin-bottom: 10px;
+}
+
+#co{
+    font-size: 15px;
+    color: white;
+    margin-top: 15px;
+}
+
+#header2{
+    background-color: rgb(24,33,46);
+    display: flex;
+    align-content: space-between;
+    padding-top: 20px;
+    padding-left: 10px;
+    padding-bottom: 8px;
+}
+
+.noti{
+    color: white;
+    font-size: 18px;
+    margin-left: 15px;
+    margin-right: 15px;
+}
+
+.noti:hover{
+    border: 2px solid white;
+}
+
+#main{
+   
+    background-image: url(https://images-eu.ssl-images-amazon.com/images/W/MEDIAX_792452-T1/images/G/31/img22/Wireless/devjyoti/GW/Uber/Nov/D103625178_DesktopTallHero_3000x1200._CB574597993_.jpg);
+    background-size: contain;
+    width: 100%;
+    background-repeat: no-repeat;
+    display: flex;
+    flex-direction: row;
+    align-content: center;
+
+}
+
+.box{
+    background-color: white;
+    margin-left: 20px;
+    margin-right: 25px;
+    margin-top: 250px;
+    height: 360px;
+    width: 300px;
+    font-size: 20px;
+    padding: 15px;
+    font-weight: bold;
+    line-height: 1.3;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.img{
+    width: 128px;
+    margin-top: 12px;
+}
+
+.para{
+    display: flex;
+}
+
+.det{
+    font-size: 12px;
+    margin-right: 20px;
+    margin-left: 15px;
+}
+
+.link{
+    font-size: 15px;
+    margin-right: 20px;
+    margin-top: 15px;
+    padding-bottom: 15px;
+}
+
+#seco{
+    display: flex;
+}
+
+.box1{
+    background-color: white;
+    margin-left: 20px;
+    margin-right: 25px;
+    margin-top: 25px;
+    height: 360px;
+    width: 300px;
+    font-size: 20px;
+    padding: 15px;
+    font-weight: bold;
+    line-height: 1.3;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.header3{
+    margin-left: 20px;
+    margin-right: 25px;
+    background-color: green;
+    width: 100%;
+    height: 250px;
+    margin-top: 20px;
+
+}
+
+#text{
+    font-size: 20px;
+    font-weight: bold;
+}
+    
+
+
